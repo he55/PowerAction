@@ -1,0 +1,9 @@
+Package: com.he55.poweraction
+Name: PowerAction
+Version: 1.0
+Architecture: iphoneos-arm
+Description: PowerAction
+Maintainer: he55
+Author: he55
+Section: Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate
